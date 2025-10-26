@@ -83,12 +83,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rj-adity&theme=radical&hide_border=false" width="49%" />
 </p>
 
-<p align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/PRs-Made-green?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Issues-Resolved-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Contributions-🔥-red?style=for-the-badge" />
-</p>
+
 
 ---
 
