@@ -24,28 +24,45 @@
 
 ---
 
-<p align="center">
+### 🛠️ My Tech Stack
+
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" width="50px" title="Python, Java, C++, JS"/>
+  <img src="https://skillicons.dev/icons?i=python" width="80px" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=java" width="80px" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="80px" title="C++"/>
+  <img src="https://skillicons.dev/icons?i=js" width="80px" title="JavaScript"/>
 
   <!-- Web Development -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css" width="50px" title="React, Node.js, HTML, CSS"/>
+  <img src="https://skillicons.dev/icons?i=react" width="80px" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="80px" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=html" width="80px" title="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" width="80px" title="CSS"/>
 
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" width="50px" title="MongoDB, MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="80px" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="80px" title="MySQL"/>
 
   <!-- AI & Deep Learning -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,opencv" width="50px" title="TensorFlow, Keras, PyTorch, OpenCV"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="80px" title="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=keras" width="80px" title="Keras"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="80px" title="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=opencv" width="80px" title="OpenCV"/>
 
   <!-- Tools & DevOps -->
-  <img src="https://skillicons.dev/icons?i=git,docker,github" width="50px" title="Git, Docker, GitHub"/>
+  <img src="https://skillicons.dev/icons?i=git" width="80px" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="80px" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=github" width="80px" title="GitHub"/>
 
   <!-- UI/Design -->
-  <img src="https://skillicons.dev/icons?i=tailwind,figma,chartjs" width="50px" title="Tailwind CSS, Figma, Chart.js"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="80px" title="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="80px" title="Figma"/>
+  <img src="https://skillicons.dev/icons?i=chartjs" width="80px" title="Chart.js"/>
 
   <!-- OS -->
-  <img src="https://skillicons.dev/icons?i=linux" width="50px" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="80px" title="Linux"/>
 </p>
+
 
 
 
