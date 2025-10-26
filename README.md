@@ -74,7 +74,7 @@
 ### ⚡ Fun Section
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4pGgqF0pL7vsc/giphy.gif" width="300" alt="Luffy GIF"/>
+  <img src="https://giffiles.alphacoders.com/350/35043.gif" width="300" alt="Luffy GIF"/>
 </p>
 
 <p align="center">
