@@ -65,11 +65,29 @@
 
 
 
+### 📊 My GitHub Stats
 
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rj-adity&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rj-adity&theme=radical" alt="GitHub Streak" />
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rj-adity&show_icons=true&theme=radical&count_private=true&hide_border=false" width="49%" />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rj-adity&theme=radical&hide_border=false" width="49%" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rj-adity&layout=compact&theme=radical&hide_border=false" width="49%" />
+  
+  <!-- Extra Activity Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rj-adity&theme=radical&hide_border=false" width="49%" />
+</p>
+
+<p align="center">
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/PRs-Made-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Issues-Resolved-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Contributions-🔥-red?style=for-the-badge" />
 </p>
 
 ---
