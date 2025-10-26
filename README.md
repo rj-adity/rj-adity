@@ -23,29 +23,47 @@
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ My Tech Stack (Neon Glow ✨)
 
 <p align="center">
-  <!-- Core Programming & Scripting -->
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" width="50px" title="Python, Java, C++, JavaScript"/>
-  
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/python.gif" width="50px" title="Python"/>
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/java.gif" width="50px" title="Java"/>
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/cpp.gif" width="50px" title="C++"/>
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/js.gif" width="50px" title="JavaScript"/>
+
   <!-- Web Development -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css" width="50px" title="React, Node.js, HTML, CSS"/>
-  
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/react.gif" width="50px" title="React"/>
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/nodejs.gif" width="50px" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/html.gif" width="50px" title="HTML"/>
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/css.gif" width="50px" title="CSS"/>
+
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" width="50px" title="MySQL, MongoDB"/>
-  
-  <!-- Deep Learning & AI -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,opencv" width="50px" title="TensorFlow, Keras, PyTorch, OpenCV"/>
-  
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/mongodb.gif" width="50px" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/mysql.gif" width="50px" title="MySQL"/>
+
+  <!-- AI & Deep Learning -->
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/tensorflow.gif" width="50px" title="TensorFlow"/>
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/keras.gif" width="50px" title="Keras"/>
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/pytorch.gif" width="50px" title="PyTorch"/>
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/opencv.gif" width="50px" title="OpenCV"/>
+
   <!-- Tools & DevOps -->
-  <img src="https://skillicons.dev/icons?i=git,docker,github" width="50px" title="Git, Docker, GitHub"/>
-  
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/git.gif" width="50px" title="Git"/>
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/docker.gif" width="50px" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/github.gif" width="50px" title="GitHub"/>
+
   <!-- UI/Design -->
-  <img src="https://skillicons.dev/icons?i=tailwind,figma,chartjs" width="50px" title="Tailwind CSS, Figma, Chart.js"/>
-  
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/tailwind.gif" width="50px" title="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/figma.gif" width="50px" title="Figma"/>
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/chartjs.gif" width="50px" title="Chart.js"/>
+
   <!-- OS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" title="Linux"/>
+  <img src="https://raw.githubusercontent.com/rj-adity/neon-icons/main/linux.gif" width="50px" title="Linux"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" alt="neon glow animation"/>
 </p>
 
 
@@ -73,8 +91,9 @@
 ---
 
 ### ⚡ Fun Section
+
 <p align="center">
-  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/3o7aD4pGgqF0pL7vsc/giphy.gif" width="300" alt="Luffy GIF"/>
 </p>
 
 <p align="center">
