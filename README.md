@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" alt="AI / Tech Animation"/>
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/08/luffy-gif-9.gif" width="300" alt="AI / Tech Animation"/>
 </p>
 
 
