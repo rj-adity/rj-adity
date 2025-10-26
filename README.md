@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/rj-adity"><img src="https://img.shields.io/github/followers/rj-adity?label=Follow&style=social" alt="GitHub followers"></a>
   <a href="https://www.linkedin.com/in/rj-adity/"><img src="https://img.shields.io/badge/LinkedIn-Aditya-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/twitter/follow/your_handle?style=social" alt="Twitter"></a>
+  <a href="https://x.com/LORDVULCAN9?t=9kLbnGpxWx3tMRrwQmVJ1A&s=09"><img src="https://img.shields.io/twitter/follow/your_handle?style=social" alt="Twitter"></a>
   <a href="mailto:aditya2003.ar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"></a>
 </p>
 
