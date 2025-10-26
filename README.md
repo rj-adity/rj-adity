@@ -79,9 +79,7 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rj-adity&layout=compact&theme=radical&hide_border=false" width="49%" />
   
-  <!-- Extra Activity Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rj-adity&theme=radical&hide_border=false" width="49%" />
-</p>
+ 
 
 
 
