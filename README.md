@@ -9,7 +9,7 @@
   <a href="https://github.com/rj-adity"><img src="https://img.shields.io/github/followers/rj-adity?label=Follow&style=social" alt="GitHub followers"></a>
   <a href="https://www.linkedin.com/in/rj-adity/"><img src="https://img.shields.io/badge/LinkedIn-Aditya-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/twitter/follow/your_handle?style=social" alt="Twitter"></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="mailto:aditya2003.ar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"></a>
 </p>
 
 ---
@@ -26,20 +26,32 @@
 ### 🛠️ My Tech Stack
 
 <p align="center">
-  <!-- Animated Tech Stack -->
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,docker,tensorflow,pytorch,keras,html,css,js" width="50px"/>
+  <!-- Core Programming & Scripting -->
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js" width="50px" title="Python, Java, C++, JavaScript"/>
+  
+  <!-- Web Development -->
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css" width="50px" title="React, Node.js, HTML, CSS"/>
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" width="50px" title="MySQL, MongoDB"/>
+  
+  <!-- Deep Learning & AI -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,opencv" width="50px" title="TensorFlow, Keras, PyTorch, OpenCV"/>
+  
+  <!-- Tools & DevOps -->
+  <img src="https://skillicons.dev/icons?i=git,docker,github" width="50px" title="Git, Docker, GitHub"/>
+  
+  <!-- UI/Design -->
+  <img src="https://skillicons.dev/icons?i=tailwind,figma,chartjs" width="50px" title="Tailwind CSS, Figma, Chart.js"/>
+  
+  <!-- OS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50px" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50px" title="Keras"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="400"/>
 </p>
 
----
 
 ### 📈 GitHub Stats
 <p align="center">
